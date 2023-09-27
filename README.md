@@ -1,9 +1,6 @@
 # MonografiaEspecializacionAnaliticaYCienciaDatos
 Repository with all the information used for the thesis work to obtain the title of Specialist in Analytics and Data Science from the University of Antioquia (Type: monograph)
 
-# MonografiaEspecializacionAnaliticaYCienciaDatos
-Repository with all the information used for the thesis work to obtain the title of Specialist in Analytics and Data Science from the University of Antioquia (Type: monograph)
-
 # UdeA Analytics and Data Science Specialization Seminar
 This repository contains information related to the Seminar of the fifth cohort of the Analytics and Data Science specialization
 
